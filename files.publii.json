@@ -1,0 +1,437 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "6df5076f77b7b45999277572a94af4d3"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0cdb59ef5ff45200c1fa7f118fea017e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "db8649ed47c6ff1626cbe40d1e0db2db"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/oliver-winston",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oliver-winston/index.html",
+        "type": "file",
+        "md5": "582b6eb0206fde1f52293cfaba3bd67f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "913153536d24a3cceddf9e121312a27e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "9b5eec5457917be8841de778c88eaa29"
+    },
+    {
+        "path": "how-to-choose-the-right-perfume-for-your-skin-type",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-choose-the-right-perfume-for-your-skin-type/index.html",
+        "type": "file",
+        "md5": "102233ceb80d5d9cbb25fe0f055fc26d"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "be9790edae4e6efa634d3c4c9a49aca5"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/best-perfumes.webp",
+        "type": "file",
+        "md5": "be6a82979b99db666b13399ca549faa7"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/best-perfumes-2xl.webp",
+        "type": "file",
+        "md5": "f25ad459b72d161d4f3ff8328c05c5a3"
+    },
+    {
+        "path": "/media/posts/1/responsive/best-perfumes-lg.webp",
+        "type": "file",
+        "md5": "b0eab1be5e9ddfbbf59d44bfad58efb6"
+    },
+    {
+        "path": "/media/posts/1/responsive/best-perfumes-md.webp",
+        "type": "file",
+        "md5": "72558b0e714a7689c447abe14fab6933"
+    },
+    {
+        "path": "/media/posts/1/responsive/best-perfumes-sm.webp",
+        "type": "file",
+        "md5": "215b77d3a9989353731d0334d061470e"
+    },
+    {
+        "path": "/media/posts/1/responsive/best-perfumes-xl.webp",
+        "type": "file",
+        "md5": "d0c00462d1cd81ac025bc9987a9cb3fd"
+    },
+    {
+        "path": "/media/posts/1/responsive/best-perfumes-xs.webp",
+        "type": "file",
+        "md5": "4bb3469d4f9e812abcd7b96fb34cad36"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/best-perfumes-1.webp",
+        "type": "file",
+        "md5": "fff637fc6035f07632f697193a2e6d97"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/best-perfumes-1-2xl.webp",
+        "type": "file",
+        "md5": "2dbc2027b6967e078b859e96388c0e1b"
+    },
+    {
+        "path": "/media/posts/2/responsive/best-perfumes-1-lg.webp",
+        "type": "file",
+        "md5": "66bfda15eefaaeee18a5dac20f572ac7"
+    },
+    {
+        "path": "/media/posts/2/responsive/best-perfumes-1-md.webp",
+        "type": "file",
+        "md5": "64cf644cfa4bef3a80d253735887e1d9"
+    },
+    {
+        "path": "/media/posts/2/responsive/best-perfumes-1-sm.webp",
+        "type": "file",
+        "md5": "efae74a99340fdb1b9beee563c2fa952"
+    },
+    {
+        "path": "/media/posts/2/responsive/best-perfumes-1-xl.webp",
+        "type": "file",
+        "md5": "5ce470079cf806d8f64f4b5ad416dafd"
+    },
+    {
+        "path": "/media/posts/2/responsive/best-perfumes-1-xs.webp",
+        "type": "file",
+        "md5": "e8c3fbf6669e6c0ee81ca2c35d7c8041"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/best-perfumes-2.webp",
+        "type": "file",
+        "md5": "18a9d7cf8366559a136e3a7167888f98"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/best-perfumes-2-2xl.webp",
+        "type": "file",
+        "md5": "0e892c2ac94ce19ffef49895c5a71bdf"
+    },
+    {
+        "path": "/media/posts/3/responsive/best-perfumes-2-lg.webp",
+        "type": "file",
+        "md5": "b0f32b8e8d1a5f8a47d49a55d4a6e5e5"
+    },
+    {
+        "path": "/media/posts/3/responsive/best-perfumes-2-md.webp",
+        "type": "file",
+        "md5": "7d8422e3b6e1bcf1bc237422cc4d6377"
+    },
+    {
+        "path": "/media/posts/3/responsive/best-perfumes-2-sm.webp",
+        "type": "file",
+        "md5": "d0c677da83473aea278db3971f34edb0"
+    },
+    {
+        "path": "/media/posts/3/responsive/best-perfumes-2-xl.webp",
+        "type": "file",
+        "md5": "86d66a0e04241b6e0d7165c675be907d"
+    },
+    {
+        "path": "/media/posts/3/responsive/best-perfumes-2-xs.webp",
+        "type": "file",
+        "md5": "4d484915d304ed95c0cceb742a15a606"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/best-perfumes-3.webp",
+        "type": "file",
+        "md5": "2292fb3dd17e9694ecebac8d9760ea35"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/best-perfumes-3-2xl.webp",
+        "type": "file",
+        "md5": "5a07cbdb21f396ab3a74154f980d0e8e"
+    },
+    {
+        "path": "/media/posts/4/responsive/best-perfumes-3-lg.webp",
+        "type": "file",
+        "md5": "4ef68f841f4bb5ba76c86ae599ca07f9"
+    },
+    {
+        "path": "/media/posts/4/responsive/best-perfumes-3-md.webp",
+        "type": "file",
+        "md5": "cd8094f1fcf2d67ed457fad643c4cbdb"
+    },
+    {
+        "path": "/media/posts/4/responsive/best-perfumes-3-sm.webp",
+        "type": "file",
+        "md5": "24030a209dfa910216ace286db14b062"
+    },
+    {
+        "path": "/media/posts/4/responsive/best-perfumes-3-xl.webp",
+        "type": "file",
+        "md5": "8472b5157b4196e608c3fec81adc2b0a"
+    },
+    {
+        "path": "/media/posts/4/responsive/best-perfumes-3-xs.webp",
+        "type": "file",
+        "md5": "89d64b64de7077c530e0cd5c63a386e6"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/best-perfumes-4.webp",
+        "type": "file",
+        "md5": "5d8f7fe9f2401671d21578c0ebef9dfe"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/best-perfumes-4-2xl.webp",
+        "type": "file",
+        "md5": "83f21777ec4d61d76dec3288037a993a"
+    },
+    {
+        "path": "/media/posts/5/responsive/best-perfumes-4-lg.webp",
+        "type": "file",
+        "md5": "53829f554e3a7c71c5043ba1916c8a7b"
+    },
+    {
+        "path": "/media/posts/5/responsive/best-perfumes-4-md.webp",
+        "type": "file",
+        "md5": "7db36da74b49bac8f6efa5ab0515ac7b"
+    },
+    {
+        "path": "/media/posts/5/responsive/best-perfumes-4-sm.webp",
+        "type": "file",
+        "md5": "54a88617a209d667c2ef3a4ad58668ee"
+    },
+    {
+        "path": "/media/posts/5/responsive/best-perfumes-4-xl.webp",
+        "type": "file",
+        "md5": "90ea6cd3a9043f3484757b55179c419f"
+    },
+    {
+        "path": "/media/posts/5/responsive/best-perfumes-4-xs.webp",
+        "type": "file",
+        "md5": "dc13c925df9e08846559e4c0fb56e3d0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "f00797fd46f33c7ef877929944a9e739"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "42ea5f5ac40c766d58e9da4ed2cc6651"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "5f056bbb2d16f3da11a74e79e7ef67ea"
+    },
+    {
+        "path": "the-best-perfumes-of-this-year-a-guide-to-top-fragrances-in-2024",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-perfumes-of-this-year-a-guide-to-top-fragrances-in-2024/index.html",
+        "type": "file",
+        "md5": "fcf65a8e0cf32884d19a70e167aad1d1"
+    },
+    {
+        "path": "the-evolution-of-perfume-ingredients-natural-vs-synthetic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-evolution-of-perfume-ingredients-natural-vs-synthetic/index.html",
+        "type": "file",
+        "md5": "2d87813adf2b4beb8d9751d23ad001aa"
+    },
+    {
+        "path": "the-role-of-base-notes-in-perfume-longevity",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-role-of-base-notes-in-perfume-longevity/index.html",
+        "type": "file",
+        "md5": "689aaae0e6276972e90ba4565b35521d"
+    },
+    {
+        "path": "understanding-fragrance-families-finding-your-signature-scent",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/understanding-fragrance-families-finding-your-signature-scent/index.html",
+        "type": "file",
+        "md5": "43cedbc1a0a8ebde6c68d69e48172ec1"
+    }
+]
